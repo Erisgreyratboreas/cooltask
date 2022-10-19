@@ -1,13 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.404ab788.chunk.js",
-    "app.js.map": "/static/js/app.404ab788.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
-    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.f1a67750.chunk.js": "/static/js/2.f1a67750.chunk.js",
-    "static/js/2.f1a67750.chunk.js.map": "/static/js/2.f1a67750.chunk.js.map",
-    "fonts/FontAwesome5_Brands.ttf": "/./fonts/FontAwesome5_Brands.ttf",
-    "fonts/FontAwesome5_Solid.ttf": "/./fonts/FontAwesome5_Solid.ttf",
+    "app.js": "/static/js/app.d64c55de.chunk.js",
+    "app.js.map": "/static/js/app.d64c55de.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.29ca862c.chunk.js": "/static/js/2.29ca862c.chunk.js",
+    "static/js/2.29ca862c.chunk.js.map": "/static/js/2.29ca862c.chunk.js.map",
     "fonts/Ionicons.ttf": "/./fonts/Ionicons.ttf",
     "fonts/MaterialIcons.ttf": "/./fonts/MaterialIcons.ttf",
     "favicon-16.png": "/favicon-16.png",
@@ -16,7 +14,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.f1a67750.chunk.js.LICENSE.txt": "/static/js/2.f1a67750.chunk.js.LICENSE.txt",
+    "static/js/2.29ca862c.chunk.js.LICENSE.txt": "/static/js/2.29ca862c.chunk.js.LICENSE.txt",
     "static/media/Altos-Odyssey.jpeg": "/static/media/Altos-Odyssey.dd1b9cf0.jpeg",
     "static/media/FarCry6.png": "/static/media/FarCry6.edffe18f.png",
     "static/media/asphalt-9.jpeg": "/static/media/asphalt-9.e22ec475.jpeg",
@@ -34,7 +32,6 @@
     "static/media/halo-infinite.jpeg": "/static/media/halo-infinite.57ed060b.jpeg",
     "static/media/icon_req.png": "/static/media/icon_req.d7c900c8.png",
     "static/media/logo.png": "/static/media/logo.07615d42.png",
-    "static/media/menu-bg.jpg": "/static/media/menu-bg.02254b94.jpg",
     "static/media/miles-morales.webp": "/static/media/miles-morales.dd44edb3.webp",
     "static/media/monedas.png": "/static/media/monedas.610a5fe5.png",
     "static/media/nivel1.png": "/static/media/nivel1.42ae6d20.png",
@@ -57,8 +54,8 @@
     "static/media/walletusdt.jpg": "/static/media/walletusdt.a0db4c3b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.f1a67750.chunk.js",
-    "static/js/app.404ab788.chunk.js"
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.29ca862c.chunk.js",
+    "static/js/app.d64c55de.chunk.js"
   ]
 }
